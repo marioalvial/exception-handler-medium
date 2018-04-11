@@ -1,6 +1,6 @@
-# spring-boot-medium
+# exception-handler-medium
 
-Repository for the article example: [Validando requisições e tratando exceções no Spring Boot](https://medium.com/p/1750ddb1e1cc/)
+Spring Boot application for the article example: [Validando requisições e tratando exceções no Spring Boot](https://medium.com/p/1750ddb1e1cc/)
 
 ## Requirements
 

@@ -18,7 +18,7 @@ First, clone the project and build locally:
 git clone https://github.com/ertyui/spring-boot-dto-medium.git
 ```
 
-Make sure you have a MySQL database called "dto".
+Make sure you have a MySQL database called "exception".
 
 From project root directory run:
 
